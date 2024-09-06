@@ -99833,7 +99833,7 @@ J.ap(q.a,"success")
 return A.z(null,r)}})
 return A.A($async$l8,r)}}
 A.Vk.prototype={
-C(a){return A.b_J(new A.DN("/offerscreen1.dart",A.b7X(),!1,null),A.a([A.eu(new A.arv(),t.Mh),A.eu(new A.arw(),t.hX),A.eu(new A.arx(),t.sv),A.eu(new A.arI(),t.j1),A.eu(new A.arK(),t.Wt),A.eu(new A.arL(),t.nm),A.eu(new A.arM(),t.d8),A.eu(new A.arN(),t.Yh),A.eu(new A.arO(),t.Xp),A.eu(new A.arP(),t.Ng),A.eu(new A.arQ(),t.Lr),A.eu(new A.ary(),t.Dg),A.eu(new A.arz(),t.up),A.eu(new A.arA(),t.A2),A.eu(new A.arB(),t.SX),A.eu(new A.arC(),t.yu),A.eu(new A.arD(),t.I0),A.eu(new A.arE(),t.Fv),A.eu(new A.arF(),t.z7),A.eu(new A.arG(),t.EE),A.eu(new A.arH(),t.oi),A.eu(new A.arJ(),t.rf)],t.Ds))}}
+C(a){return A.b_J(new A.DN("/splash_screen.dart",A.b7X(),!1,null),A.a([A.eu(new A.arv(),t.Mh),A.eu(new A.arw(),t.hX),A.eu(new A.arx(),t.sv),A.eu(new A.arI(),t.j1),A.eu(new A.arK(),t.Wt),A.eu(new A.arL(),t.nm),A.eu(new A.arM(),t.d8),A.eu(new A.arN(),t.Yh),A.eu(new A.arO(),t.Xp),A.eu(new A.arP(),t.Ng),A.eu(new A.arQ(),t.Lr),A.eu(new A.ary(),t.Dg),A.eu(new A.arz(),t.up),A.eu(new A.arA(),t.A2),A.eu(new A.arB(),t.SX),A.eu(new A.arC(),t.yu),A.eu(new A.arD(),t.I0),A.eu(new A.arE(),t.Fv),A.eu(new A.arF(),t.z7),A.eu(new A.arG(),t.EE),A.eu(new A.arH(),t.oi),A.eu(new A.arJ(),t.rf)],t.Ds))}}
 A.arv.prototype={
 $1(a){return new A.u5($.ai())},
 $S:576}
